@@ -1,0 +1,6 @@
+pyopenssl
+netifaces
+twisted
+dnspython
+service_identity
+scapy
